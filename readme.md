@@ -27,4 +27,5 @@ webserver (just about any should work).
     php artisan key:generate
     
     Alas, you should be able to navigate to the root directory of the app and enter some stuff into the 'Add Note' form.
-    Have fun from there.
+    
+    After you have created your first note, you will be able to navigate to http://{whatever}/1 and view that note or any others you add.
